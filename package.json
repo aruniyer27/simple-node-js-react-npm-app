@@ -12,6 +12,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
   "publishConfig":{"registry":"http://34.93.102.37:8082/artifactory/api/npm/npm/"}
 }
